@@ -5,9 +5,9 @@
 **Puneet Shukla**  
 Dynamic and solution-focused Software Engineer with expertise in C++, Node.js, and Java. Passionate about developing efficient and innovative software solutions, with a strong foundation in AI and Machine Learning. Experienced in full-stack development, problem-solving, and building scalable applications.  
 
-📧 Email: [puneetshukla043@gmail.com](mailto:puneetshukla043@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/puneet-shukla-72b915225](https://www.linkedin.com/in/puneet-shukla-72b915225)  
-💻 GitHub: [github.com/puneetshukla14](https://github.com/puneetshukla14)
+ Email: [puneetshukla043@gmail.com](mailto:puneetshukla043@gmail.com)  
+ LinkedIn: [linkedin.com/in/puneet-shukla-72b915225](https://www.linkedin.com/in/puneet-shukla-72b915225)  
+ GitHub: [github.com/puneetshukla14](https://github.com/puneetshukla14)
 
 ---
 
