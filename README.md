@@ -1,86 +1,91 @@
-Threads Clone - Full Stack Application
-Developer: Puneet Shukla
-Dynamic and solution-focused Software Engineer with expertise in C++, Node.js, and Java. Passionate about developing efficient and innovative software solutions, with a strong foundation in AI and Machine Learning. Experienced in full-stack development, problem-solving, and building scalable applications.
+# **Threads Clone - Full Stack Application**
 
-📧 Email: puneetshukla043@gmail.com
-🔗 LinkedIn: linkedin.com/in/puneet-shukla-72b915225
-💻 GitHub: github.com/puneetshukla14
-🌐 Portfolio: 
-📜 LeetCode: leetcode.com/u/puneetshukla043
+## **Developer**  
 
+**Puneet Shukla**  
+Dynamic and solution-focused Software Engineer with expertise in C++, Node.js, and Java. Passionate about developing efficient and innovative software solutions, with a strong foundation in AI and Machine Learning. Experienced in full-stack development, problem-solving, and building scalable applications.  
 
-    Hack2Skill Certification
-    HackerRank Python Certification
-    Accenture AI Certification
+📧 Email: [puneetshukla043@gmail.com](mailto:puneetshukla043@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/puneet-shukla-72b915225](https://www.linkedin.com/in/puneet-shukla-72b915225)  
+💻 GitHub: [github.com/puneetshukla14](https://github.com/puneetshukla14)  
+🌐 Portfolio: [puneetshukla14.github.io/Disneyhotstarclone](https://puneetshukla14.github.io/Disneyhotstarclone/)  
+📜 LeetCode: [leetcode.com/u/puneetshukla043](https://leetcode.com/u/puneetshukla043/)  
+🎖️ Certifications:  
+- [Hack2Skill Certification](https://certificate.hack2skill.com/user/Evolute23/2023H2S04Evolute0083)  
+- [HackerRank Python Certification](https://www.hackerrank.com/certificates/fea8cb71bd03)  
+- [Accenture AI Certification](https://drive.google.com/file/d/1WI-apUqzWUmLRAouLyevDmbnIpJUL9yN/view)  
 
-Table of Contents
+---
 
-    Introduction
-    Tech Stack
-    Features
-    Quick Start
-    Code Snippets
-    Useful Links
-    Additional Information
+## **Table of Contents**  
 
-Introduction
+1. Introduction  
+2. Tech Stack  
+3. Features  
+4. Quick Start  
+5. Code Snippets  
+6. Useful Links  
+7. Additional Information  
 
-This project is a full-stack Threads clone built using Next.js 14+, designed with a modern and refined UI based on Figma designs. It incorporates advanced features such as nested comments, notifications, real-time search, and robust user authentication. The application focuses on enhancing user interaction, community engagement, and technical efficiency.
+---
 
-Tech Stack
+## **Introduction**  
 
-    Frontend: Next.js, Tailwind CSS, Shadcn UI
-    Backend: MongoDB, Serverless APIs, Webhooks
-    Authentication: Clerk
-    State Management & Forms: React Hook Form, Zod
-    Language: TypeScript
+This project is a full-stack Threads clone built using Next.js 14+, designed with a modern and refined UI based on Figma designs. It incorporates advanced features such as nested comments, notifications, real-time search, and robust user authentication. The application focuses on enhancing user interaction, community engagement, and technical efficiency.  
 
-Key Features
-User Authentication
+For support or troubleshooting, users can join an active Discord community with over 27,000 members, where developers collaborate and provide assistance.  
 
-    Secure authentication with Clerk, supporting email, password, and social logins (Google and GitHub).
-    Comprehensive profile management system for user customization.
+---
 
-User Interface and Experience
+## **Tech Stack**  
 
-    A modern and visually appealing home page displaying the latest threads.
-    Fully responsive UI transformed from Figma designs, ensuring a seamless user experience.
-    Optimized for performance with fast page navigation and efficient rendering.
+- **Frontend:** Next.js, Tailwind CSS, Shadcn UI  
+- **Backend:** MongoDB, Serverless APIs, Webhooks  
+- **Authentication:** Clerk  
+- **State Management & Forms:** React Hook Form, Zod  
+- **Language:** TypeScript  
 
-Thread and Commenting System
+---
 
-    Users can create new threads to engage with the community.
-    Nested commenting system for structured conversations.
+## **Key Features**  
 
-Search and Discovery
+### **User Authentication**  
+- Secure authentication with Clerk, supporting email, password, and social logins (Google and GitHub).  
+- Comprehensive profile management system for user customization.  
 
-    User search functionality with pagination for improved navigation.
-    Community search with pagination for easier exploration.
+### **User Interface and Experience**  
+- A modern and visually appealing home page displaying the latest threads.  
+- Fully responsive UI transformed from Figma designs, ensuring a seamless user experience.  
+- Optimized for performance with fast page navigation and efficient rendering.  
 
-Community Management
+### **Thread and Commenting System**  
+- Users can create new threads to engage with the community.  
+- Nested commenting system for structured conversations.  
 
-    Users can create and manage communities with customizable templates for inviting new members.
-    Admin-specific community threads to enhance moderation and engagement.
-    Role-based member management, allowing modifications and removals.
+### **Search and Discovery**  
+- User search functionality with pagination for improved navigation.  
+- Community search with pagination for easier exploration.  
 
-Notifications and Activity Tracking
+### **Community Management**  
+- Users can create and manage communities with customizable templates for inviting new members.  
+- Admin-specific community threads to enhance moderation and engagement.  
+- Role-based member management, allowing modifications and removals.  
 
-    Activity page that displays real-time notifications when someone interacts with a user's thread.
-    Real-time event listening using webhooks to keep users updated.
+### **Notifications and Activity Tracking**  
+- Activity page that displays real-time notifications when someone interacts with a user's thread.  
+- Real-time event listening using webhooks to keep users updated.  
 
-Performance and Optimization
+### **Performance and Optimization**  
+- Server-side rendering with Next.js for improved performance and SEO.  
+- MongoDB with complex schemas, allowing efficient data management and retrieval.  
+- Middleware, API actions, and authorization mechanisms to ensure secure data handling.  
 
-    Server-side rendering with Next.js for improved performance and SEO.
-    MongoDB with complex schemas, allowing efficient data management and retrieval.
-    Middleware, API actions, and authorization mechanisms to ensure secure data handling.
+### **Additional Functionalities**  
+- File uploads using UploadThing for seamless media sharing.  
+- Data validation with Zod to ensure input integrity.  
+- Form management using React Hook Form for a structured user input experience.  
+- Next.js Layout Route Groups for efficient routing and navigation.  
 
-Additional Functionalities
-
-    File uploads using UploadThing for seamless media sharing.
-    Data validation with Zod to ensure input integrity.
-    Form management using React Hook Form for a structured user input experience.
-    Next.js Layout Route Groups for efficient routing and navigation.
+---
 
 This project aims to deliver a high-quality, feature-rich application that enhances user interaction and community engagement while maintaining optimal performance and security.
-
-Let me know if you need any modifications! 🚀
