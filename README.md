@@ -27,7 +27,7 @@ Dynamic and solution-focused Software Engineer with expertise in C++, Node.js, a
 
 This project is a full-stack Threads clone built using Next.js 14+, designed with a modern and refined UI based on Figma designs. It incorporates advanced features such as nested comments, notifications, real-time search, and robust user authentication. The application focuses on enhancing user interaction, community engagement, and technical efficiency.  
 
-For support or troubleshooting, users can join an active Discord community with over 27,000 members, where developers collaborate and provide assistance.  
+
 
 ---
 
