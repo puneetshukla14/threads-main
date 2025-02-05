@@ -7,13 +7,7 @@ Dynamic and solution-focused Software Engineer with expertise in C++, Node.js, a
 
 📧 Email: [puneetshukla043@gmail.com](mailto:puneetshukla043@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/puneet-shukla-72b915225](https://www.linkedin.com/in/puneet-shukla-72b915225)  
-💻 GitHub: [github.com/puneetshukla14](https://github.com/puneetshukla14)  
-🌐 Portfolio: [puneetshukla14.github.io/Disneyhotstarclone](https://puneetshukla14.github.io/Disneyhotstarclone/)  
-📜 LeetCode: [leetcode.com/u/puneetshukla043](https://leetcode.com/u/puneetshukla043/)  
-🎖️ Certifications:  
-- [Hack2Skill Certification](https://certificate.hack2skill.com/user/Evolute23/2023H2S04Evolute0083)  
-- [HackerRank Python Certification](https://www.hackerrank.com/certificates/fea8cb71bd03)  
-- [Accenture AI Certification](https://drive.google.com/file/d/1WI-apUqzWUmLRAouLyevDmbnIpJUL9yN/view)  
+💻 GitHub: [github.com/puneetshukla14](https://github.com/puneetshukla14)
 
 ---
 
